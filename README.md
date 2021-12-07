@@ -1,14 +1,11 @@
 #  Game Quiz
 
 
-![Capa do Projeto](https://i.ibb.co/QpzGjjn/pngwing-com-2.png)
 
 
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
+
 </h4>
 
 # Documentação
