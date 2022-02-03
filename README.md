@@ -28,13 +28,13 @@ Venha se divertir no jogo e mostrar todo seu conhecimento aqui! Venha jogar o Ga
 
 * [Colaboradores](#colaboradores)
 
-   Ana Paula Carolina de Medeiros       RA: 321218617
+   Ana Paula Carolina de Medeiros       
 
-   Dayvson do Carmo Gomes               RA: 321217293
+   Dayvson do Carmo Gomes              
  
-   Vagner Souza Rodrigues               RA: 321221005
+   Vagner Souza Rodrigues               
 
-   Wesley Filipe da Silva               RA: 321219499
+   Wesley Filipe da Silva               
    
    
 
